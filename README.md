@@ -70,4 +70,4 @@ Styling a clean and minimal portfolio with CSS
 🔗 Original Website
 
 You can visit the original Cynthia Ugwu portfolio here:
-https://cynthiaugwu.com
+https://cynthia-animated-web.vercel.app/
