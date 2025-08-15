@@ -35,8 +35,8 @@ This clone project focuses on:
 ---
 
 ## 📸 Preview
-> ![Website Preview](./assets/preview.png)  
-*(Replace with actual screenshot path if different)*
+> ![Website Preview](https://github.com/sahil-Rathore10/Cynthia-Animated-web2/blob/main/preview.png)  
+
 
 ---
 
