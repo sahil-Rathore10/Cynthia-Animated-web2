@@ -1,13 +1,13 @@
 # 🎨 Cynthia Ugwu Website Clone
 
-A fully responsive and animated clone of the **Cynthia Ugwu** portfolio website, recreated using **HTML**, **CSS**, **JavaScript**, **GSAP**, and **Locomotive Scroll**.  
+A fully responsive and animated clone of the **Cynthia Ugwu** Animated Clone website, recreated using **HTML**, **CSS**, **JavaScript**, **GSAP**, and **Locomotive Scroll**.  
 This project replicates the smooth animations, scrolling effects, and interactive design of the original website.
 
 ---
 
 ## 📌 Project Overview
 This clone project focuses on:
-- Modern, minimal portfolio design
+- Modern, minimal animated design
 - Smooth scrolling animations with **Locomotive Scroll**
 - Interactive text & image transitions using **GSAP**
 - Responsive layout for all devices
@@ -27,7 +27,7 @@ This clone project focuses on:
 ## ✨ Features
 - Smooth parallax scrolling
 - Animated headings and text reveals
-- Interactive hover effects on portfolio projects
+- Interactive hover effects
 - Fully responsive design
 - Sticky navigation and footer
 - GSAP timeline-based animations for a professional look
