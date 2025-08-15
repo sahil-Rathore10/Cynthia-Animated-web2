@@ -43,7 +43,7 @@ This clone project focuses on:
 ## 🚀 Installation & Setup
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/cynthia-ugwu-clone.git
+   git clone https://github.com/sahil-Rathore10/Cynthia-Animated-web2
 
 📂 Folder Structure
 ├── assets/
